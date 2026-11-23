@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+audit_*.txt
+security_scan_results.txt
+samples_inspected.txt
+playbook_summary.txt
+test_sample_sub.csv
+.ipynb_checkpoints/
